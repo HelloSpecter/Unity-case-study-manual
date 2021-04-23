@@ -11,3 +11,5 @@ test/test-file.7z filter=lfs diff=lfs merge=lfs -text
 AStarProject filter=lfs diff=lfs merge=lfs -text
 CharacterControllerTest filter=lfs diff=lfs merge=lfs -text
 JumpTest filter=lfs diff=lfs merge=lfs -text
+My_Callback1116 filter=lfs diff=lfs merge=lfs -text
+*.package filter=lfs diff=lfs merge=lfs -text
