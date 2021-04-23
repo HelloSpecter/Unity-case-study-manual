@@ -4,3 +4,5 @@
 0922test filter=lfs diff=lfs merge=lfs -text
 MyStealth1008 filter=lfs diff=lfs merge=lfs -text
 Demo filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+test/test-file.7z filter=lfs diff=lfs merge=lfs -text
