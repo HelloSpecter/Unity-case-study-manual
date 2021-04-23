@@ -14,3 +14,4 @@ JumpTest filter=lfs diff=lfs merge=lfs -text
 My_Callback1116 filter=lfs diff=lfs merge=lfs -text
 *.package filter=lfs diff=lfs merge=lfs -text
 MyMacanim_P6 filter=lfs diff=lfs merge=lfs -text
+MyStarTrooper filter=lfs diff=lfs merge=lfs -text
